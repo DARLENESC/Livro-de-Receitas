@@ -6,7 +6,7 @@ Olá! Bem vindo ao meu livro de receitas.
 
 
 
-# SOBRESEMAS 
+# Sobremesas  
 
 - **Mouse de Chocolate**
 
